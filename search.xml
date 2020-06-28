@@ -113,12 +113,12 @@
 
 <p>1    歌声与微笑[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/01" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/01</a> - 歌声与微笑.flac)<br>2    蜗牛与黄鹂鸟[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/02" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/02</a> - 蜗牛与黄鹂鸟.flac)<br>3    兰花草[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/03" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/03</a> - 兰花草.flac)<br>4    数鸭子[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/04" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/04</a> - 数鸭子.flac)<br>5    朋友越多越快乐[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/05" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/05</a> - 朋友越多越快乐.flac)<br>6    Hey Jude[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/06" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/06</a> - Hey Jude.flac)<br>7    采蘑菇的小姑娘[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/07" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/07</a> - 采蘑菇的小姑娘.flac)<br>8    小螺号[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/08" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/08</a> - 小螺号.flac)<br>9    送别[直接下载](<a href="https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/09" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/crazyjums/lizhi@gh-pages/img/MP3/8/09</a> - 送别.flac)</p>
 
-        <div id="aplayer-nVLqLSEG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gDDxnuvQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nVLqLSEG"),
+            element: document.getElementById("aplayer-gDDxnuvQ"),
             narrow: false,
             autoplay: true,
             showlrc: false,
